@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\libphy.a CMakeFiles/phy.dir/src/window.cpp.obj CMakeFiles/phy.dir/src/vector.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\libphy.a

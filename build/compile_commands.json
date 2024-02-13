@@ -1,0 +1,596 @@
+[
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/freeFall.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\freeFall.dir\\src\\forces\\freeFall.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\src\\forces\\freeFall.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/src/forces/freeFall.cpp",
+  "output": "CMakeFiles/freeFall.dir/src/forces/freeFall.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/inclined_plane.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\inclined_plane.dir\\src\\forces\\inclined_plane.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\src\\forces\\inclined_plane.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/src/forces/inclined_plane.cpp",
+  "output": "CMakeFiles/inclined_plane.dir/src/forces/inclined_plane.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Clock.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Clock.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Err.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Err.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Sleep.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Sleep.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\String.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/String.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Utils.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Utils.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Utils.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Vector2.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Vector2.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Vector2.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Vector2.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Vector3.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Vector3.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Vector3.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Vector3.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\FileInputStream.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/FileInputStream.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\MemoryInputStream.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/MemoryInputStream.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/System",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\System\\Win32\\SleepImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/System/Win32/SleepImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Main",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-main.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Main\\MainWin32.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Main/MainWin32.cpp",
+  "output": "deps/SFML-master/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Clipboard.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Clipboard.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Context.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Context.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Cursor.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Cursor.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\GlContext.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/GlContext.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\GlResource.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/GlResource.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Joystick.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Joystick.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\JoystickManager.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/JoystickManager.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Keyboard.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Keyboard.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Mouse.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Mouse.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Touch.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Touch.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Sensor.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Sensor.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\SensorManager.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/SensorManager.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\VideoMode.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/VideoMode.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Vulkan.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Vulkan.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Window.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Window.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\WindowBase.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/WindowBase.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\WindowImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/WindowImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\CursorImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/CursorImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/ClipboardImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\InputImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/InputImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/JoystickImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\SensorImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/SensorImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/VideoModeImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/VulkanImplWin32.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/WindowImplWin32.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Window",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-window.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Window\\Win32\\WglContext.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Window/Win32/WglContext.cpp",
+  "output": "deps/SFML-master/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\Ftp.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\Ftp.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/Ftp.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\Http.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\Http.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/Http.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\IpAddress.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\IpAddress.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/IpAddress.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\Packet.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\Packet.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/Packet.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\Socket.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\Socket.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/Socket.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\SocketSelector.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\SocketSelector.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/SocketSelector.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\TcpListener.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\TcpListener.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/TcpListener.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\TcpSocket.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\TcpSocket.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/TcpSocket.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\UdpSocket.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\UdpSocket.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/UdpSocket.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Network",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-network.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-network.dir\\Win32\\SocketImpl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Network\\Win32\\SocketImpl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Network/Win32/SocketImpl.cpp",
+  "output": "deps/SFML-master/src/SFML/Network/CMakeFiles/sfml-network.dir/Win32/SocketImpl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\BlendMode.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/BlendMode.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Font.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Font.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Glsl.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Glsl.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\GLCheck.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/GLCheck.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\GLExtensions.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Image.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Image.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderStates.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderStates.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderTexture.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderTarget.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderWindow.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Shader.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Shader.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\StencilMode.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\StencilMode.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/StencilMode.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Texture.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Texture.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\TextureSaver.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Transform.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Transform.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Transformable.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Transformable.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\View.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/View.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Shape.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Shape.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\CircleShape.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/CircleShape.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RectangleShape.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\ConvexShape.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Sprite.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Sprite.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\Text.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/Text.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\VertexArray.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/VertexArray.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\VertexBuffer.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Graphics",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-graphics.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "deps/SFML-master/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\ALCheck.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\ALCheck.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/ALCheck.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/ALCheck.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\AlResource.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\AlResource.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/AlResource.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AlResource.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\AudioDevice.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\AudioDevice.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/AudioDevice.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\Listener.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\Listener.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/Listener.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\Music.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\Music.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/Music.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\Sound.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\Sound.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/Sound.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundBuffer.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundBuffer.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundBuffer.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundBufferRecorder.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundBufferRecorder.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundBufferRecorder.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\InputSoundFile.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\InputSoundFile.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/InputSoundFile.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\OutputSoundFile.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\OutputSoundFile.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/OutputSoundFile.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundRecorder.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundRecorder.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundRecorder.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundSource.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundSource.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundSource.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundStream.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundStream.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundStream.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileFactory.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileFactory.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileFactory.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderFlac.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileReaderFlac.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileReaderFlac.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderMp3.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileReaderMp3.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileReaderMp3.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderOgg.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileReaderOgg.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileReaderOgg.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileReaderWav.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileReaderWav.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileReaderWav.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterFlac.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileWriterFlac.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileWriterFlac.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterOgg.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileWriterOgg.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileWriterOgg.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/SFML-master/src/SFML/Audio",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFLAC__NO_DLL -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles/sfml-audio.dir/includes_CXX.rsp -g -std=gnu++23 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles\\sfml-audio.dir\\SoundFileWriterWav.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\SFML-master\\src\\SFML\\Audio\\SoundFileWriterWav.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/SFML-master/src/SFML/Audio/SoundFileWriterWav.cpp",
+  "output": "deps/SFML-master/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/phy",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/phy.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\phy.dir\\src\\window.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\phy\\src\\window.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/phy/src/window.cpp",
+  "output": "deps/phy/CMakeFiles/phy.dir/src/window.cpp.obj"
+},
+{
+  "directory": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/build/deps/phy",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles/phy.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\phy.dir\\src\\vector.cpp.obj -c C:\\Users\\bytenol\\Documents\\Programming\\Github\\SFML-proj-main\\deps\\phy\\src\\vector.cpp",
+  "file": "C:/Users/bytenol/Documents/Programming/Github/SFML-proj-main/deps/phy/src/vector.cpp",
+  "output": "deps/phy/CMakeFiles/phy.dir/src/vector.cpp.obj"
+}
+]
